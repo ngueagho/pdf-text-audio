@@ -6,4 +6,4 @@ Pour convertir le texte extrait d'un fichier PDF en audio et générer un fichie
   * pip install PyMuPDF gTTS playsound
 * avant de l'excuter aller dans le fichier pdf-text-audio.py et au niveau de cette ligne     pdf_path = "terraform-docker.pdf" , inserer le chemin vers votre fichier pdf.
   * ensite: python3 pdf-text-audio.py pour executer le script 
-
+ 
